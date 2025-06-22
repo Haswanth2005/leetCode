@@ -36,5 +36,15 @@ public class Main {
 //        leetCode3541 ans = new leetCode3541();
 //        String s = "successes";
 //        System.out.println(ans.maxFreqSum(s));
+
+        //leetCode217
+//        leetCode217 ans = new leetCode217();
+//        int[] nums = {1,2,3,1};
+//        System.out.println(ans.containsDuplicate(nums));
+
+        //leetCode242
+        leetCode242 ans = new leetCode242();
+        String s = "anagram", t = "nagaram";
+        System.out.println(ans.isAnagram(s,t));
     }
 }
